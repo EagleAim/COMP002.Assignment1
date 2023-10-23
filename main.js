@@ -1,3 +1,1 @@
-<script type="ExternalScript">
-    cons
-</script>
+alert("JavaScript File Test")
